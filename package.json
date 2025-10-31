@@ -1,12 +1,7 @@
 {
 	"name": "misskey",
-<<<<<<< HEAD
-	"version": "2025.10.0-kiskey-1",
-	"codename": "choyamba",
-=======
-	"version": "2025.10.2",
-	"codename": "nasubi",
->>>>>>> 19053339d9629a9c65f456d99793cf44ac48aebd
+	"version": "2025.10.2-kiskey-1",
+	"codename": "nasubi-choyamba",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/misskey-dev/misskey.git"
